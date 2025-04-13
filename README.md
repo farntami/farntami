@@ -1,5 +1,8 @@
-## Hi there 👋
+## Tami / Tuma
 
+Developing my frontend skills by completing frontendmentor challenges and working on my own projects.
+
+![black cat bigfootjinx](https://i.pinimg.com/736x/7b/53/28/7b5328c114814a3c2c9cfc3e81b5194b.jpg)
 <!--
 **farntami/farntami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

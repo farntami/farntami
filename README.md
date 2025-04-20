@@ -1,6 +1,6 @@
 ## Tami / Tuma
 
-Developing my frontend skills by completing frontendmentor challenges and working on my own projects.
+I love math cats tetris and birds
 
 ![black cat bigfootjinx](https://i.pinimg.com/736x/7b/53/28/7b5328c114814a3c2c9cfc3e81b5194b.jpg)
 <!--
